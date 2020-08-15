@@ -25,8 +25,8 @@ Here are some ideas to get you started:
             <p style="margin-bottom: 10px;">Hi! I'm Ghassane SEBAÏ, but online I go by SuperZikoure. I'm a french Artist, Composer & Game Developer.</p>
             <p style="margin-bottom: 10px;">I've always been passionate about creating interactive experiences which led me to the world of Game Development in 2013.</p>
             <p style="margin-bottom: 10px;">Since then, I've been programming, composing & drawing in my free time.</p>
-            <p style="margin-bottom: 10px;">You can check some of my works <a href="http://about.zikoure.me" target="_blank">here</a></p>
-            <p style="margin-bottom: 10px;">I'm currently taking commissions & available for hire. If you want to comission me or work with me, you can contact me <strong><href="http://about.zikoure.me/contact" target="_blank">here</a></strong>.</p>
+            <p style="margin-bottom: 10px;">You can check some of my works <a href="http://about.zikoure.me" target="_blank">here</a>.</p>
+            <p style="margin-bottom: 10px;">I'm currently taking commissions & available for hire. If you want to comission me or work with me, you can contact me <strong><a href="http://about.zikoure.me/contact" target="_blank">here</a></strong>.</p>
             <p style="margin-bottom: 10px;"></p>
         </div>
         <div class="col-lg-8 col-md-10 mx-auto">
