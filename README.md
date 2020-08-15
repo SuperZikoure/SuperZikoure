@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Ghassane SEBAÏ!
 
 <!--
 **SuperZikoure/SuperZikoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,81 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-<style>
-    .headline {
-        margin-top: 25px;
-        margin-bottom: 25px;
-    }
-
-    .expand {
-        padding: 20px;
-        scale: 1;
-        display:block;
-        transition: all 0.2s ease-out;
-    }
-
-    .box {
-        padding: 10px;
-        display: block;
-        background-color: rgba(255, 255, 255, 1);
-        transition: all 0.2s ease-out;
-    }
-
-    .box:hover {
-        -webkit-box-shadow: 0px 0px 36px -9px rgba(0,0,0,0.39);
-        -moz-box-shadow: 0px 0px 36px -9px rgba(0,0,0,0.39);
-        box-shadow: 0px 0px 36px -9px rgba(0,0,0,0.39);
-        scale: 1.2;
-        z-index: 1;
-    }
-
-    .timeline {
-        margin-bottom: 30px;
-        width: 300px;
-        margin: auto;
-    }
-
-    .timeline div {
-        text-align: center;
-        border-top: 8px dashed;
-        border-color: black !important;
-        margin:0; padding: 30px;
-    }
-
-    .timeline div:nth-child(even) {
-        border-left: 8px dashed;
-        padding-right: 0;
-    }
-
-    .timeline div:nth-child(odd) {
-        border-right: 8px dashed;
-        padding-left: 0;
-    }
-
-    .timeline div:first-child {
-        border-top: 0;
-        border-top-right-radius:0;
-        border-top-left-radius:0;
-    }
-
-    .timeline div:last-child {
-        border-bottom-right-radius:0;
-        border-bottom-left-radius:0;
-    }
-    .box p {
-        margin-top: 5px;
-    }
-
-    @media only screen and (max-width: 765px) {
-        p, li {
-            font-size: 16px;
-        }
-        .box h3 {
-            font-size: 20px;;
-        }
-    }
-</style>
-
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
@@ -100,7 +26,7 @@ Here are some ideas to get you started:
             <p style="margin-bottom: 10px;">Hi! I'm Ghassane SEBAÏ, but online I go by SuperZikoure. I'm a french Artist, Composer & Game Developer.</p>
             <p style="margin-bottom: 10px;">I've always been passionate about creating interactive experiences which led me to the world of Game Development in 2013.</p>
             <p style="margin-bottom: 10px;">Since then, I've been programming, composing & drawing in my free time.</p>
-            <p style="margin-bottom: 10px;">You can check my works in the <a href="/projects">projects</a>, <a href="/art">art</a> & <a href="/music">music</a> sections.</p>
+            <p style="margin-bottom: 10px;">You can check some of my works <a href="http://about.zikoure.me" target="_blank">here</a></p>
             <p style="margin-bottom: 10px;">I'm currently taking commissions & available for hire. If you want to comission me or work with me, you can contact me <strong><a href="/contact">here</a></strong>.</p>
             <p style="margin-bottom: 10px;"></p>
         </div>
