@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Ghassane SEBAÏ!
+### Hi there 👋 I'm Ghassane SEBAÏ!
 
 <!--
 **SuperZikoure/SuperZikoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -89,7 +88,6 @@ Here are some ideas to get you started:
                     </span>
                 </span>
             </div>
-            &#9986;
         </div>
         <div class="col-lg-8 col-md-10 mx-auto" style="margin-top: 60px; margin-bottom: 25px;">
             <h1 class="headline">Languages, Tools, Engines & Systems</h1>
